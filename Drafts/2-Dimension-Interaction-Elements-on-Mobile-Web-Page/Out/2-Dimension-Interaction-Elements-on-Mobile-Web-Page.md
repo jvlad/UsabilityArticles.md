@@ -16,7 +16,7 @@ Well, probably, not. Why?
 
 Because it **interferes with page scrolling**. It is very **annoying usability problem** since page scroll on the mobile phone is the first way users interact with the page in... well, hight percentage of cases. There are times when the scroll left to be the only way users interact with your web page. So, be careful to put any widgets that may need 2-dimensions scrolling, dragging, anything. Circle widget as you see is one of that kind of widgets.
 
-Please, be careful and **keep mobile experience** (especially – mobile web experience) simple. Please, **do it for the people you love** (most of the time) like your grannies, mother, children and all others.
+Please, be careful and **keep mobile experience simple**, especially – mobile web experience. Please, **do it for the people you love** (most of the time) like your grannies, mother, children and all others.
 
 P. S.  
 One of the first books on Design for digital as well as for paper media I've read was "Kovodstvo" written by Artemi Lebedev. He seems to be a well-known designer from Russia. A lot of water has flowed since then. One the most important things I've learned about design, science, art and life is basically the same things that is written on the coat of arms of Royal Society: "on the word of no one". But still remembering that impression that the book made on me I take a look at portfolio of Artemi's Lebedev design studio from time to time.
