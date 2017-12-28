@@ -13,7 +13,7 @@ _Copyright belongs to Art. Lebedev Studio, original link: http://img.artlebedev.
 It looks very nice, doesn't it? Beautiful, bright, appealing.  
 Do you want to have the one like that for your own mobile-banking experience. Well, probably, not. Why? 
 
-Because it **interferes with page scrolling**. Very **annoying usability problem** since page scroll on the mobile phone is the first way you interact with the page in... well, hight percentage of cases. There are times when the scroll left to be the only way user interact with your web-page. So, be careful to put any widgets that may need 2-dimensions scrolling, dragging, anything. Circle widget as you see is one of that kind of widgets.
+Because it **interferes with page scrolling**. It is very **annoying usability problem** since page scroll on the mobile phone is the first way users interact with the page in... well, hight percentage of cases. There are times when the scroll left to be the only way users interact with your web page. So, be careful to put any widgets that may need 2-dimensions scrolling, dragging, anything. Circle widget as you see is one of that kind of widgets.
 
 Please, be careful and **keep mobile experience** (especially – mobile web experience) simple. Please, **do it for the people you love** (most of the time) like your grannies, mother, children and all others.
 
