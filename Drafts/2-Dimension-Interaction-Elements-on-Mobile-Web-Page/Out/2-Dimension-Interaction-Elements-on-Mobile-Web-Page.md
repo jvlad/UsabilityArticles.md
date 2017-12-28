@@ -2,7 +2,7 @@
 
 # 2-dimensional-interaction-elements on Mobile Web Page Usability Problem
 
-Being involved in developing mobile application for banks, one of the first things I usually interested in among those humans look at while using their mobile devices is applications related to finance management: banks, purchases managers, digital cards wallets and so on. That's why what caught my eye this time – when I visited Artemi Lebedev studio portfolio website – the mobile web-site of Bank Saint Petersburg.  
+Being involved in developing mobile application for banks, one of the first things I am usually interested in among those humans look at while using their mobile devices is applications related to finance management: banks, purchases managers, digital cards wallets and so on. That's why what caught my eye this time – when I visited Artemi Lebedev studio portfolio website – the mobile web-site of Bank Saint Petersburg.  
 Here is the link: https://www.bspb.ru/webmobile/
 
 Looking at few promo pictures of that web-site I noticed there is an quite interesting custom-looking widget for choosing credit program that fits best for your personal needs. Here is the picture I am talking about:  
@@ -19,3 +19,6 @@ Please, be careful and **keep mobile experience** (especially – mobile web exp
 
 P. S.  
 One of the first books on Design for digital as well as for paper media I've read was "Kovodstvo" written by Artemi Lebedev. He seems to be a well-known designer from Russia. A lot of water has flowed since then. One the most important things I've learned about design, science, art and life is basically the same things that is written on the coat of arms of Royal Society: "on the word of no one". But still remembering that impression that the book made on me I take a look at portfolio of Artemi's Lebedev design studio from time to time.
+
+---
+Author: _Vlad Zamskoi_, email: <v.zamskoi@gmail.com>, web-site: mobileAppSoft.com
