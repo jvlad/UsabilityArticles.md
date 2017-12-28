@@ -8,7 +8,7 @@ Here is the link: https://www.bspb.ru/webmobile/
 Looking at few promo pictures of that web-site I noticed there is an quite interesting custom-looking widget for choosing credit program that fits best for your personal needs. Here is the picture I am talking about:  
 
 ![Loan_Options_Picker. Custom widget for web-application](./res/Loan_Options_Picker.jpg "Loan_Options_Picker. Custom widget for web-application")  
-_Copyright belongs to Art. Lebedev Studio, original link: http://img.artlebedev.ru/bspb/mobile/bspb-mobile-phone-credits.jpg_
+<p style="font-size: 8pt">Copyright belongs to Art. Lebedev Studio, original link: http://img.artlebedev.ru/bspb/mobile/bspb-mobile-phone-credits.jpg</p>
 
 It looks very nice, doesn't it? Beautiful, bright, appealing.  
 Do you want to have the one like that for your own mobile-banking experience. Well, probably, not. Why? 
