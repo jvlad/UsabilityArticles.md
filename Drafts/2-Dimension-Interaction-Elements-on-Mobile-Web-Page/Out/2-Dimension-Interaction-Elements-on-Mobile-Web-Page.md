@@ -10,8 +10,9 @@ Looking at few promo pictures of that web-site I noticed there is an quite inter
 ![Loan_Options_Picker. Custom widget for web-application](./res/Loan_Options_Picker.jpg "Loan_Options_Picker. Custom widget for web-application")  
 <p style="font-size: 8pt">Copyright © Art. Lebedev Studio. Original link: http://img.artlebedev.ru/bspb/mobile/bspb-mobile-phone-credits.jpg</p>
 
-It looks very nice, doesn't it? Beautiful, bright, appealing.  
-Do you want to have the one like that for your own mobile-banking experience. Well, probably, not. Why? 
+It looks very nice, doesn't it? Beautiful, bright, appealing...  
+?: Do you want to have the one like that for your own mobile-banking experience?  
+Well, probably, not. Why? 
 
 Because it **interferes with page scrolling**. It is very **annoying usability problem** since page scroll on the mobile phone is the first way users interact with the page in... well, hight percentage of cases. There are times when the scroll left to be the only way users interact with your web page. So, be careful to put any widgets that may need 2-dimensions scrolling, dragging, anything. Circle widget as you see is one of that kind of widgets.
 
