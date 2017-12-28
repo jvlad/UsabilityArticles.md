@@ -4,7 +4,7 @@
 
 These articles are written in order to apply my usability knowledge and ideas in general – to prove there are some knowledge and ideas.
 
-## Table of Content
+## Table of Contents
 
 [Drafts](./Drafts/):  
 * [2-dimension-interaction elements on mobile web-page](./Drafts/2-Dimension-Interaction-Elements-on-Mobile-Web-Page/Out/2-Dimension-Interaction-Elements-on-Mobile-Web-Page.md)  
