@@ -22,4 +22,8 @@ P. S.
 One of the first books on Design for digital, as well as for paper media, I've read was "Kovodstvo" written by Artemi Lebedev. He seems to be a well-known designer from Russia. A lot of water has flowed since then. One the most important things I've learned about design, science, art and life is basically the same things that is written on the coat of arms of Royal Society: "Take nobody's word for it". Though remembering the impression that the book made on me, I still take a look at the portfolio of Artemi Lebedev Design Studio from time to time.
 
 ---
-Author: _Vlad Zamskoi_, email: <v.zamskoi@gmail.com>, web-site: mobileAppSoft.com
+Author  
+_Vlad Zamskoi_, email: <v.zamskoi@gmail.com>, web-site: mobileAppSoft.com  
+
+English grammar and style reviewer  
+_Alena Semashko_, reference available upon request.
