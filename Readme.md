@@ -1,7 +1,9 @@
+###### Wed Feb 21 15:10:42 MSK 2018
+# [NOT MAINTAINED]
+# [MOVED TO] [Usability Section](https://github.com/jvlad/SoftwareBlog.md/tree/master/Usability) of "SoftwareBlog" repository
 ###### Thu Dec 28 15:32:26 MSK 2017
 
-# Usability Articles Authored by @VladZamskoi
-
+# Vlad Zamskoi Usability Articles
 These articles are written in order to apply my usability knowledge and ideas in general – to prove there are some knowledge and ideas.
 
 ## Table of Contents
